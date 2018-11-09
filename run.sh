@@ -1,0 +1,3 @@
+git pull
+ionic serve
+
